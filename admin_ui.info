@@ -1,0 +1,8 @@
+; $Id$
+name = "Admin UI"
+description = "Extra UI helpers for Admin module."
+package = "Administration"
+dependencies[] = admin
+
+core = 6.x
+version = "6.x-1.0"
